@@ -43,5 +43,3 @@ story = Story(
     """Once upon a time in a long-ago {place}, there lived a
        large {adjective} {noun}. It loved to {verb} {plural_noun}."""
 )
-
-# ans = {"verb": "eat", "noun": "mango"}
